@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "999838583832",
+    "project_id": "petbia-c132f",
+    "storage_bucket": "petbia-c132f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999838583832:android:e05c3258e58d72e9ca476d",
+        "android_client_info": {
+          "package_name": "com.example.petbia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999838583832-2qnre3u8u9bgm128p7cr02tlatfsq508.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV6fuArAK85auF4Fsg0pQvXaW8en9JWyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999838583832-2qnre3u8u9bgm128p7cr02tlatfsq508.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
